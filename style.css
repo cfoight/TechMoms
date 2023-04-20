@@ -32,12 +32,6 @@
     margin-right: auto;
     width: 50%;
   }
-  
-  .container {
-    padding: 18px;
-    margin-top: 35px;
-    height: auto;
-  }
 
 .blog-container{
   margin: 35px auto;
@@ -108,7 +102,7 @@ height: 15vh;
 }
 
 .form-box button{
-  color:#fff
+  color:#4e4138;
   padding: 15px 20 px;
   font-size: 20px;
   border: none;
@@ -117,19 +111,18 @@ height: 15vh;
   transition: .3s;
 }
 
-.artist{
-  margin: 150px auto;
-  width: 50%;
+#artist{
+  margin: 10px auto;
+  width: 80%;
   padding: 8px;
 }
-img{
+.text{
+  text-align: justify;
+}
+
+ /* img{
   float: left;
   width: 350px;
   height: 475px;
   padding: 0 10px 0 0;
-}
-
-.text{
-  text-align: justify;
-
-}
+}  */
